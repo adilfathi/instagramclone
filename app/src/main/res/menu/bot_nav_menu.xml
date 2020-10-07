@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeBtn"
+        android:icon="@drawable/home"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/exploreBtn"
+        android:icon="@drawable/search"
+        android:title="Explore"
+        />
+
+    <item
+        android:id="@+id/postBtn"
+        android:icon="@drawable/add"
+        android:title="Post"
+        />
+
+    <item
+        android:id="@+id/activityBtn"
+        android:icon="@drawable/heart_not_clicked"
+        android:title="Activity"
+        />
+
+    <item
+        android:id="@+id/profileBtn"
+        android:icon="@drawable/profile_icon"
+        android:title="Profile"
+        />
+
+</menu>
